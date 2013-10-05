@@ -29,7 +29,7 @@ output
 => /output/dictionary_hash.txt
 ```
 
-### 3. 讀取每一份 document 的 terms，對應到 dictionary_hash.txt，算出 tf-idf-unit-vector，並且存放到 /output/tf-idf_hash 中，為`每一份` document 的 tf-idf。
+### 2. 讀取每一份 document 的 terms，對應到 dictionary_hash.txt，算出 tf-idf-unit-vector，並且存放到 /output/tf-idf_hash 中，為`每一份` document 的 tf-idf。
  
 ```
 $ ruby 2_tf-idf.rb
@@ -39,7 +39,7 @@ output
 ```
 
 
-### 4. 丟進兩個 argument 當作兩份 document 的 id，並且開啓這兩份的 tf-idf_hash 進行運算，得到 cosine_similaity 的值並且印出來。
+### 3. 丟進兩個 argument 當作兩份 document 的 id，並且開啓這兩份的 tf-idf_hash 進行運算，得到 cosine_similaity 的值並且印出來。
 
 ```
 $ ruby 3_cosine_similaity.rb 1 2
@@ -48,7 +48,7 @@ $ ruby 3_cosine_similaity.rb 1 2
 => 0.18284016135760092
 ```
 
-### 5. 因為繳交的格式的限制，另外寫一段 code 把 dictionary_hash.txt 轉換成易讀格式 dictionary.txt。
+### 4. 因為繳交的格式的限制，另外寫一段 code 把 dictionary_hash.txt 轉換成易讀格式 dictionary.txt。
 
 ```
 $ ruby 4_format.rb
