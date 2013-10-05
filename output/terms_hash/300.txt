@@ -1,0 +1,1 @@
+{"attend"=>1, "campaign"=>1, "capit"=>1, "carnahan"=>1, "ceremoni"=>1, "clinton"=>1, "crash"=>1, "di"=>1, "governor"=>1, "missouri"=>2, "mondai"=>1, "mourner"=>1, "mr"=>1, "night"=>1, "plane"=>1, "presid"=>1, "rememb"=>1, "resid"=>1, "senat"=>1, "state"=>1, "thousand"=>1, "todai"=>1}

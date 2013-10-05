@@ -1,0 +1,1 @@
+{"17"=>1, "account"=>1, "bomb"=>2, "call"=>1, "cohen"=>1, "cole"=>1, "defens"=>1, "destroy"=>1, "examin"=>1, "expect"=>1, "inquiri"=>1, "investig"=>1, "kill"=>1, "naval"=>1, "navi"=>1, "new"=>1, "octob"=>1, "review"=>1, "sailor"=>1, "secretari"=>1, "tragedi"=>1, "uss"=>1, "william"=>1, "yemen"=>1}

@@ -1,0 +1,1 @@
+{"30-year-old"=>1, "6-2"=>2, "6-4"=>1, "agassi"=>2, "american"=>1, "andr"=>1, "arnot"=>1, "australian"=>1, "clement"=>1, "elimin"=>1, "french"=>1, "grand"=>1, "new"=>1, "open"=>1, "oppon"=>1, "pick"=>1, "seventh"=>1, "slam"=>1, "sport"=>1, "star"=>1, "sun"=>1, "tenni"=>1, "titl"=>1, "tonight"=>1, "tournament"=>1, "victori"=>1, "win"=>1}

@@ -1,0 +1,1 @@
+{"$200000"=>1, "act"=>1, "arrest"=>1, "author"=>2, "capit"=>1, "charg"=>1, "christma"=>1, "continu"=>1, "follow"=>1, "freight"=>1, "fugit"=>2, "mexico"=>1, "murder"=>1, "new"=>1, "overnight"=>1, "post"=>1, "reward"=>1, "robberi"=>1, "search"=>2, "seven"=>1, "spread"=>1, "texa"=>2, "tip"=>1, "train"=>1, "true"=>1, "want"=>1}

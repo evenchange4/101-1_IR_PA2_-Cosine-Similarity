@@ -1,0 +1,1 @@
+{"50"=>1, "abidjan"=>1, "author"=>1, "coast"=>1, "controversi"=>1, "countri"=>1, "curfew"=>1, "effect"=>1, "elect"=>1, "fridai"=>1, "grave"=>1, "ivori"=>1, "killer"=>1, "led"=>1, "mass"=>2, "men"=>1, "militari"=>1, "ouster"=>1, "outsid"=>1, "presidenti"=>1, "punish"=>1, "remain"=>2, "ruler"=>1, "situat"=>1, "tens"=>1, "track"=>1, "unrest"=>1, "vow"=>1, "week"=>1, "young"=>1}

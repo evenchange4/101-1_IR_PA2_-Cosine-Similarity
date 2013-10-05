@@ -1,0 +1,1 @@
+{"discov"=>1, "doom"=>1, "explos"=>1, "famili"=>1, "horrifi"=>1, "initi"=>1, "kursk"=>1, "loss"=>1, "month"=>1, "russia"=>1, "sailor"=>1, "submarin"=>2, "surviv"=>1, "victim"=>1}

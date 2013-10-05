@@ -1,0 +1,1 @@
+{"60"=>1, "africa"=>1, "apart"=>1, "capit"=>1, "christian"=>1, "coast"=>1, "dai"=>1, "demonstr"=>1, "drove"=>1, "fight"=>2, "ivori"=>1, "kill"=>1, "leader"=>1, "massiv"=>1, "militari"=>1, "mob"=>1, "muslim"=>1, "opposit"=>1, "peopl"=>1, "power"=>1, "street"=>1, "toi"=>1, "torn"=>1, "void"=>1}

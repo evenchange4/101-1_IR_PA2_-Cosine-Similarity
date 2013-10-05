@@ -1,0 +1,1 @@
+{"6-4"=>1, "7-6"=>1, "australia"=>1, "australian"=>1, "beat"=>1, "classic"=>1, "coloni"=>1, "court"=>1, "melbourn"=>1, "near"=>1, "number"=>1, "open"=>1, "patrick"=>1, "pete"=>1, "rafter"=>1, "sampra"=>1, "semi"=>1, "set"=>1, "straight"=>1, "tune-up"=>1, "week"=>1, "yellow"=>1}

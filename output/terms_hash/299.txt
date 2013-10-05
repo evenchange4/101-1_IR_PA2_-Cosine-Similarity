@@ -1,0 +1,1 @@
+{"abl"=>1, "account"=>1, "attack"=>2, "boat"=>1, "chang"=>2, "cole"=>1, "dock"=>1, "explos"=>1, "help"=>1, "hour"=>1, "initi"=>1, "navi"=>3, "nearli"=>1, "new"=>1, "occur"=>1, "offici"=>1, "past"=>1, "question"=>1, "rais"=>1, "sai"=>1, "said"=>1, "secur"=>1, "ship"=>2, "tie"=>1, "uss"=>1, "yemen"=>1}

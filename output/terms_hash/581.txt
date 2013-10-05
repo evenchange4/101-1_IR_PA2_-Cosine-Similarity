@@ -1,0 +1,1 @@
+{"alberto"=>1, "announc"=>1, "corrupt"=>1, "crumbl"=>1, "fujimori"=>1, "japan"=>1, "peru"=>2, "presid"=>1, "previous"=>1, "promis"=>1, "quit"=>1, "recent"=>1, "resign"=>1, "return"=>1, "rule"=>1, "scandal"=>1, "summer"=>1, "todai"=>1, "tuesdai"=>1, "unclear"=>1}

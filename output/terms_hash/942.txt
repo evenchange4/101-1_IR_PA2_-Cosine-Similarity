@@ -1,0 +1,1 @@
+{"--"=>1, "0-6"=>1, "6-3"=>1, "6-4"=>1, "7-6"=>1, "advanc"=>1, "beaten"=>1, "biggest"=>1, "call"=>1, "career"=>1, "celebr"=>1, "chair"=>1, "clement"=>1, "final"=>1, "fourth"=>1, "frenchman"=>1, "grosjean"=>1, "kafelnikov"=>1, "let"=>2, "mangu"=>1, "men"=>1, "moya"=>1, "norman"=>2, "point"=>2, "said"=>1, "sebastien"=>1, "seed"=>1, "stand"=>1, "umpir"=>1, "win"=>1}

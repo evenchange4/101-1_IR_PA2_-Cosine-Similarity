@@ -1,0 +1,1 @@
+{"118"=>1, "august"=>1, "barent"=>1, "bodi"=>1, "ceremoni"=>1, "crash"=>1, "crew"=>1, "diver"=>1, "explos"=>1, "floor"=>1, "held"=>1, "kill"=>1, "kursk"=>2, "memori"=>1, "militari"=>1, "proceed"=>1, "recov"=>1, "recoveri"=>1, "russian"=>2, "sea"=>2, "seamen"=>1, "seaport"=>1, "shatter"=>1, "sub"=>1, "submarin"=>1, "sundai"=>2, "undersea"=>1, "work"=>1, "wreckag"=>1}

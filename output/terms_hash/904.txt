@@ -1,0 +1,1 @@
+{"action"=>1, "ago"=>1, "anticip"=>1, "bomb"=>1, "cohen"=>1, "cole"=>1, "command"=>1, "defens"=>1, "destroy"=>1, "disciplinari"=>1, "doe"=>1, "fail"=>1, "militari"=>1, "month"=>1, "navi"=>1, "recommend"=>1, "releas"=>1, "report"=>1, "sai"=>1, "secretari"=>1, "suicid"=>1, "threat"=>1, "todai"=>1, "william"=>1, "yemen"=>1}

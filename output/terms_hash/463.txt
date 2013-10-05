@@ -1,0 +1,1 @@
+{"attack"=>1, "better"=>1, "cole"=>1, "cooper"=>2, "demand"=>1, "depart"=>1, "destroy"=>1, "effort"=>1, "get"=>1, "govern"=>1, "matter"=>1, "new"=>1, "offici"=>1, "quot"=>1, "sai"=>2, "stage"=>1, "state"=>2, "try"=>1, "unidentifi"=>1, "unit"=>1, "uss"=>1, "work"=>1, "wors"=>1, "yemen"=>1, "york"=>1}

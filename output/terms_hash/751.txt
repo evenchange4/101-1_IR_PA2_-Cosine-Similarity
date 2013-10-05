@@ -1,0 +1,1 @@
+{"15"=>1, "ank"=>1, "australian"=>3, "begin"=>1, "championship"=>1, "doubl"=>1, "grand"=>1, "hardcourt"=>1, "huber"=>2, "injuri"=>1, "jan"=>1, "match"=>1, "open"=>3, "pine"=>1, "plai"=>1, "pull"=>1, "right"=>1, "royal"=>1, "septemb"=>1, "slam"=>1, "sprain"=>1, "tenni"=>1, "tournament"=>1, "upcom"=>1, "week"=>1, "withdrew"=>1, "women"=>1, "wrist"=>1, "year"=>1}

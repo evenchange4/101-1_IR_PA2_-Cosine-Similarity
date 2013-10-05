@@ -1,0 +1,1 @@
+{"alberto"=>1, "appar"=>1, "corrupt"=>1, "countri"=>1, "did"=>1, "fight"=>1, "fujimori"=>1, "great"=>1, "japan"=>1, "letter"=>1, "peru"=>1, "presid"=>1, "pressur"=>1, "resign"=>1, "rule"=>1, "sent"=>1, "settl"=>1, "step"=>1, "todai"=>2, "vacat"=>1, "year"=>1}

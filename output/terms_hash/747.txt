@@ -1,0 +1,1 @@
+{"ago"=>1, "air"=>1, "american"=>1, "arabia"=>1, "barrack"=>1, "bomb"=>2, "cole"=>1, "command"=>1, "commiss"=>2, "defens"=>2, "depart"=>1, "despit"=>1, "do"=>1, "familiar"=>1, "find"=>1, "forc"=>2, "investig"=>1, "laps"=>1, "measur"=>1, "middl"=>1, "offici"=>1, "place"=>1, "protect"=>1, "region"=>1, "sai"=>2, "saudi"=>1, "secur"=>1, "signific"=>1, "uss"=>1, "year"=>1}

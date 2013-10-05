@@ -1,0 +1,1 @@
+{"0"=>1, "1"=>1, "2"=>1, "4"=>3, "5"=>2, "6"=>2, "83"=>1, "aftershock"=>1, "caus"=>1, "center"=>2, "closer"=>1, "damag"=>3, "earthquak"=>3, "eri"=>1, "greec"=>1, "high"=>1, "home"=>1, "injuri"=>2, "japan"=>2, "lake"=>1, "littl"=>1, "major"=>1, "measur"=>2, "mexico"=>1, "minor"=>1, "ohio"=>1, "quak"=>2, "richter"=>1, "scale"=>1, "shook"=>1, "southern"=>1, "thing"=>1, "todai"=>3}

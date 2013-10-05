@@ -1,0 +1,1 @@
+{"6-2"=>2, "6-4"=>1, "agassi"=>2, "andr"=>1, "arnaud"=>1, "australian"=>1, "awai"=>1, "blew"=>1, "champion"=>1, "clement"=>1, "crown"=>1, "defend"=>1, "frenchman"=>1, "grand"=>1, "open"=>1, "seventh"=>1, "slam"=>1, "sundai"=>1, "tenni"=>1, "titl"=>1, "won"=>1}

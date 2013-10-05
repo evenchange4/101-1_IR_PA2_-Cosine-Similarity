@@ -1,0 +1,1 @@
+{"abl"=>1, "bodi"=>1, "compart"=>2, "damag"=>1, "diver"=>2, "fleet"=>1, "fourth"=>1, "kursk"=>1, "meter"=>1, "northern"=>1, "norwegian"=>1, "poor"=>1, "proce"=>1, "recov"=>1, "russia"=>1, "russian"=>1, "sai"=>1, "search"=>1, "spokesman"=>1, "submarin"=>1, "sundai"=>1, "task"=>1, "ventur"=>1, "visibl"=>1, "wreck"=>1}

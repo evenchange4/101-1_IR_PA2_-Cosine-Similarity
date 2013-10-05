@@ -1,0 +1,1 @@
+{"africa"=>1, "blue"=>1, "bring"=>1, "call"=>1, "canal"=>2, "cole"=>1, "egypt"=>1, "exampl"=>1, "fr"=>1, "gigant"=>1, "go"=>2, "goe"=>1, "instead"=>1, "iron"=>1, "longer"=>1, "make"=>1, "marlin"=>1, "pentagon"=>3, "plan"=>2, "platform"=>1, "rout"=>1, "ship"=>1, "shortest"=>1, "six-week"=>1, "suez"=>1, "terrorist"=>1, "todai"=>1, "transport"=>1, "trip"=>1, "vulner"=>1, "week"=>1}

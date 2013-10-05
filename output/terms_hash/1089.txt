@@ -1,0 +1,1 @@
+{"12000"=>1, "chang"=>1, "contamin"=>1, "crisi"=>1, "death"=>2, "desper"=>1, "earthquak"=>1, "find"=>1, "fridai"=>1, "get"=>1, "help"=>1, "homeless"=>1, "india"=>1, "natur"=>1, "offici"=>1, "survivor"=>2, "thousand"=>1, "toll"=>1, "water"=>1, "western"=>1}

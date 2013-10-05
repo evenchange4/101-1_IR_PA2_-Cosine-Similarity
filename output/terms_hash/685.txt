@@ -1,0 +1,1 @@
+{"20"=>1, "40"=>1, "american"=>1, "clinton"=>1, "convict"=>1, "edmond"=>1, "espionag"=>1, "like"=>1, "pardon"=>1, "pope"=>2, "prais"=>1, "presid"=>2, "prison"=>1, "putin"=>2, "russia"=>1, "russian"=>2, "sai"=>1, "sentenc"=>1, "todai"=>1, "vladimir"=>1, "week"=>1, "year"=>2}

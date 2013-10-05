@@ -1,0 +1,1 @@
+{"$70"=>1, "100"=>1, "12"=>1, "22"=>1, "board"=>1, "commun"=>1, "coupl"=>1, "crue"=>1, "death"=>1, "difficult"=>1, "go"=>1, "intern"=>2, "item"=>1, "just"=>1, "million"=>1, "missil"=>1, "nuclear"=>1, "oper"=>1, "oversea"=>1, "pai"=>1, "rais"=>1, "reactor"=>1, "remain"=>1, "russian"=>1, "sailor"=>2, "salvag"=>1, "submarin"=>1, "summer"=>1, "team"=>1, "todai"=>1, "took"=>1}

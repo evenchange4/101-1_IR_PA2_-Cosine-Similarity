@@ -1,0 +1,1 @@
+{"$1"=>1, "0000"=>1, "6"=>1, "7"=>1, "america"=>1, "billion"=>1, "continu"=>1, "damag"=>2, "destroi"=>1, "earthquak"=>1, "effort"=>1, "estim"=>1, "home"=>1, "magnitud"=>1, "miss"=>1, "peopl"=>1, "properti"=>1, "quak"=>2, "recoveri"=>1, "south"=>1, "word"=>1}

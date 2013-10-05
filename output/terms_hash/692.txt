@@ -1,0 +1,1 @@
+{"17"=>1, "25"=>1, "80"=>1, "abc"=>1, "arriv"=>1, "attack"=>1, "built"=>1, "captain"=>1, "cole"=>1, "crew"=>1, "di"=>1, "differ"=>1, "fail"=>1, "go"=>1, "heat"=>1, "investig"=>1, "john"=>1, "land"=>1, "lot"=>1, "mississippi"=>1, "protect"=>1, "report"=>1, "sail"=>1, "sailor"=>1, "ship"=>4, "shipyard"=>1, "step"=>1, "tonight"=>1, "uss"=>1, "wethi"=>1, "yemen"=>1}

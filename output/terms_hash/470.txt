@@ -1,0 +1,1 @@
+{"17"=>1, "39"=>1, "arriv"=>1, "bomb"=>1, "cole"=>1, "crew"=>1, "emot"=>1, "famili"=>1, "friend"=>1, "greet"=>1, "homecom"=>1, "hundr"=>1, "injur"=>1, "kill"=>1, "member"=>2, "norfolk"=>1, "sailor"=>1, "ship"=>1, "surviv"=>1, "terror"=>1, "todai"=>1, "tonight"=>1, "uss"=>1, "virginia"=>1, "yemen"=>1}

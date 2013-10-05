@@ -1,0 +1,1 @@
+{"33"=>1, "aboard"=>1, "arriv"=>1, "board"=>1, "c-141"=>1, "cole"=>2, "famili"=>1, "head"=>1, "home"=>1, "hospit"=>1, "injur"=>1, "militari"=>1, "naval"=>1, "norfolk"=>1, "portsmouth"=>1, "rel"=>1, "remain"=>1, "respir"=>1, "sailor"=>2, "tonight"=>1, "transport"=>1, "uss"=>1, "virginia"=>1, "welcom"=>1, "wound"=>2}

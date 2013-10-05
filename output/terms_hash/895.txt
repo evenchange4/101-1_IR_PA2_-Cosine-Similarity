@@ -1,0 +1,1 @@
+{"agassi"=>1, "andr"=>1, "argentina"=>1, "australian"=>1, "capriati"=>1, "chela"=>1, "cnn"=>1, "davenport"=>1, "did"=>1, "fourth"=>1, "fridai"=>1, "headlin"=>1, "ignacio"=>1, "jana"=>1, "jerom"=>1, "juan"=>1, "jurenovich"=>1, "kournikova"=>1, "ladi"=>1, "lindsai"=>1, "marat"=>1, "move"=>1, "open"=>1, "pete"=>1, "push"=>1, "safin"=>1, "sampra"=>1, "set"=>1, "sport"=>1, "upset"=>1}

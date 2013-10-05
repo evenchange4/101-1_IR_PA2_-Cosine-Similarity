@@ -1,0 +1,1 @@
+{"ago"=>1, "atlant"=>1, "badli"=>1, "bomb"=>1, "carri"=>1, "cole"=>1, "complet"=>1, "crippl"=>1, "damag"=>1, "destroy"=>2, "larg"=>1, "missil"=>1, "month"=>1, "ocean"=>1, "repair"=>1, "return"=>1, "shipyard"=>1, "southern"=>1, "state"=>1, "terrorist"=>1, "trip"=>1, "unit"=>1, "vessel"=>1, "wednesdai"=>1, "yemen"=>1}

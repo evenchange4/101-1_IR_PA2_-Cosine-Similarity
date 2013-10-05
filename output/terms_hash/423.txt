@@ -1,0 +1,1 @@
+{"23"=>1, "begun"=>1, "bodi"=>2, "compart"=>1, "cut"=>1, "dai"=>1, "delai"=>1, "diver"=>1, "effort"=>1, "enter"=>1, "expect"=>1, "kursk"=>1, "ninth"=>1, "norwegian"=>1, "nuclear"=>1, "recov"=>1, "resum"=>1, "russian"=>2, "submarin"=>1, "sunken"=>1, "weather-induc"=>1}

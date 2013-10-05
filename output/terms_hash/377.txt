@@ -1,0 +1,1 @@
+{"118"=>2, "barent"=>1, "bodi"=>2, "compart"=>1, "cut"=>2, "dai"=>1, "diver"=>2, "drill"=>1, "effort"=>1, "enter"=>2, "expect"=>1, "kill"=>1, "kursk"=>1, "navi"=>1, "norwegian"=>1, "nuclear"=>1, "offici"=>1, "rear"=>1, "recov"=>1, "recoveri"=>1, "russian"=>2, "sailor"=>1, "sank"=>1, "sea"=>1, "sub"=>1, "submarin"=>1, "team"=>1, "took"=>1, "wide"=>1}

@@ -1,0 +1,1 @@
+{"author"=>1, "charg"=>1, "coast"=>1, "elect"=>1, "fals"=>1, "favor"=>1, "gener"=>1, "govern"=>1, "guei"=>1, "independ"=>1, "ivori"=>1, "militari"=>2, "opposit"=>1, "plan"=>1, "presidenti"=>1, "reject"=>1, "rig"=>1, "robert"=>1, "rule"=>1, "rumor"=>1, "run"=>1, "sai"=>1, "spread"=>1, "sundai"=>1, "undermin"=>1, "vote"=>1}

@@ -1,0 +1,1 @@
+{"3-6"=>1, "6-2"=>1, "6-3"=>1, "abl"=>1, "advanc"=>1, "ameli"=>1, "aussi"=>1, "beat"=>1, "better"=>2, "bit"=>1, "game"=>1, "go"=>1, "guess"=>1, "level"=>1, "littl"=>1, "manag"=>1, "mauresmo"=>1, "open"=>1, "plan"=>1, "quarter"=>1, "realli"=>1, "seed"=>2, "set"=>1, "stai"=>1, "struggl"=>1, "sure"=>1, "think"=>1, "venu"=>2, "walk"=>1, "weren"=>1, "william"=>1, "win"=>1}

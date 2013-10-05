@@ -1,0 +1,1 @@
+{"118"=>1, "12"=>1, "12th"=>1, "august"=>1, "barent"=>1, "bodi"=>1, "crew"=>2, "diver"=>1, "escap"=>1, "explos"=>1, "focu"=>1, "forward"=>1, "hatch"=>1, "kill"=>1, "kursk"=>2, "main"=>1, "member"=>1, "near"=>1, "nuclear"=>1, "origin"=>1, "perish"=>1, "rear"=>1, "recov"=>1, "sea"=>1, "section"=>1, "sent"=>1, "submarin"=>1, "sunken"=>1, "switch"=>1, "tuesdai"=>1, "unknown"=>1}

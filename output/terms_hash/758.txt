@@ -1,0 +1,1 @@
+{"17"=>1, "angl"=>1, "attack"=>1, "bomb"=>1, "bomber"=>1, "caus"=>1, "charg"=>1, "cole"=>1, "dai"=>1, "deck"=>1, "get"=>1, "hurt"=>1, "kill"=>1, "navi"=>1, "octob"=>1, "pictur"=>2, "power"=>1, "rest"=>1, "sailor"=>1, "seen"=>1, "sens"=>1, "set"=>1, "shipmat"=>1, "sleep"=>1, "stricken"=>1, "suicid"=>1, "todai"=>1, "uss"=>1, "variou"=>1}

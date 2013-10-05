@@ -1,0 +1,1 @@
+{"candid"=>1, "carnahan"=>1, "clinton"=>1, "crash"=>1, "democrat"=>2, "di"=>1, "gather"=>1, "governor"=>1, "memori"=>1, "missouri"=>1, "mondai"=>1, "mourner"=>1, "plane"=>1, "presid"=>1, "presidenti"=>1, "servic"=>1, "thousand"=>1}

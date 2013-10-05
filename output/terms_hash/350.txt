@@ -1,0 +1,1 @@
+{"aid"=>1, "appoint"=>1, "ashcroft"=>1, "ballot"=>1, "carnahan"=>3, "coupl"=>1, "crash"=>1, "dai"=>1, "elect"=>1, "end"=>1, "get"=>1, "governor"=>1, "interim"=>1, "john"=>1, "kill"=>1, "late"=>1, "missouri"=>2, "mr"=>1, "plane"=>1, "post"=>1, "remain"=>1, "remov"=>1, "run"=>1, "senat"=>2, "son"=>1, "take"=>1, "vote"=>1, "want"=>1, "week"=>1, "widow"=>1, "wilson"=>1}

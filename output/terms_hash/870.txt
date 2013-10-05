@@ -1,0 +1,1 @@
+{"672"=>1, "aid"=>1, "aliv"=>1, "attempt"=>1, "attent"=>1, "death"=>1, "did"=>1, "earthquak"=>2, "expect"=>1, "help"=>1, "intern"=>1, "led"=>1, "left"=>1, "mudslid"=>1, "rise"=>1, "salvador"=>1, "saturdai"=>1, "shift"=>1, "surviv"=>1, "todai"=>1, "toll"=>1, "unleash"=>1, "worker"=>1}

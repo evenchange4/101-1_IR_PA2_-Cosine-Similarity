@@ -1,0 +1,1 @@
+{"6-0"=>1, "6-2"=>1, "6-7"=>1, "7-5"=>1, "agassi"=>1, "andr"=>1, "anthoni"=>1, "cnn"=>1, "dominik"=>1, "got"=>1, "headlin"=>1, "hrbati"=>1, "jame"=>1, "keith"=>1, "littl"=>1, "martin"=>1, "men"=>1, "outlast"=>1, "patrick"=>1, "rafter"=>1, "resist"=>1, "semi"=>1, "sport"=>1, "todd"=>1}

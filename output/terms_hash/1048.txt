@@ -1,0 +1,1 @@
+{"$5"=>1, "8000"=>1, "aid"=>1, "airlift"=>1, "arriv"=>1, "carri"=>1, "contribut"=>1, "disast"=>1, "effort"=>1, "famili"=>1, "govern"=>1, "help"=>1, "india"=>2, "left"=>1, "million"=>1, "mondai"=>1, "morn"=>1, "recoveri"=>1, "relief"=>1, "respons"=>1, "said"=>1, "seven-person"=>1, "suppli"=>2, "team"=>1, "todai"=>1, "washington"=>1}

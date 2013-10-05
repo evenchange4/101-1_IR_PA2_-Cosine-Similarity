@@ -1,0 +1,1 @@
+{"1975"=>1, "asia"=>1, "asia-pacif"=>1, "brunei"=>1, "clinton"=>2, "countri"=>1, "end"=>1, "isff"=>1, "meet"=>1, "mr"=>1, "nation"=>1, "presid"=>2, "thursdai"=>1, "toietnam"=>1, "vietnam"=>1, "visit"=>1}

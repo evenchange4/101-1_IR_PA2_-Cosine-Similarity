@@ -1,0 +1,1 @@
+{"appoint"=>1, "ashcroft"=>1, "ballot"=>1, "carnahan"=>3, "crash"=>1, "dead"=>1, "governor"=>2, "jean"=>1, "john"=>1, "kill"=>1, "late"=>1, "missouri"=>1, "mr"=>2, "novemb"=>1, "plane"=>1, "question"=>1, "roger"=>1, "sai"=>1, "senat"=>2, "vote"=>1, "want"=>1, "week"=>1, "widow"=>1, "wilson"=>1, "win"=>2}

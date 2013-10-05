@@ -1,0 +1,1 @@
+{"500"=>1, "american"=>1, "attack"=>1, "bomb"=>1, "civilian"=>1, "cole"=>1, "hotel"=>2, "investig"=>1, "learn"=>1, "militari"=>1, "night"=>1, "personnel"=>1, "secur"=>1, "stai"=>1, "threat"=>1, "tight"=>1, "tighter"=>1, "todai"=>1, "traffic"=>1, "turn"=>1, "yard"=>1, "yemen"=>1}

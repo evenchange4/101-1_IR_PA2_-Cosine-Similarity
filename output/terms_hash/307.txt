@@ -1,0 +1,1 @@
+{"17"=>1, "abl"=>1, "account"=>1, "blast"=>1, "boat"=>1, "carri"=>1, "cole"=>1, "explos"=>2, "fridai"=>1, "given"=>1, "incid"=>1, "kill"=>1, "navi"=>2, "near"=>1, "new"=>1, "question"=>1, "rais"=>1, "refuel"=>1, "revis"=>1, "rip"=>1, "sai"=>1, "set"=>1, "ship"=>1, "small"=>1, "statement"=>1, "uss"=>1, "week"=>1, "yemen"=>1}

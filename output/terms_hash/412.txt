@@ -1,0 +1,1 @@
+{"atck"=>1, "brick"=>1, "brief"=>1, "bring"=>1, "closest"=>1, "cole"=>2, "damag"=>1, "fbi"=>1, "frustrat"=>1, "govern"=>1, "home"=>1, "interview"=>1, "investig"=>3, "just"=>1, "latest"=>1, "let"=>1, "main"=>1, "pictur"=>1, "review"=>1, "stori"=>1, "tell"=>1, "todai"=>1, "tonight"=>1, "uss"=>1, "wall"=>1, "wish"=>1, "wit"=>1, "yemen"=>1, "yemeni"=>1}

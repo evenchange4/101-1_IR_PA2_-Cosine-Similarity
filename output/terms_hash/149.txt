@@ -1,0 +1,1 @@
+{"abruptli"=>1, "anger"=>1, "attack"=>1, "bush"=>1, "call"=>1, "campaign"=>1, "candid"=>1, "cole"=>1, "cowardli"=>1, "discuss"=>1, "elect"=>1, "event"=>1, "georg"=>1, "gore"=>1, "hous"=>1, "interrupt"=>1, "middl"=>1, "polici"=>1, "presidenti"=>1, "report"=>1, "republican"=>1, "return"=>1, "sadden"=>1, "thursdai"=>1, "told"=>1, "vice-presid"=>1, "washington"=>1, "white"=>1}

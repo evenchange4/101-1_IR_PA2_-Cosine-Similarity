@@ -1,0 +1,1 @@
+{"$440000"=>1, "ago"=>1, "convict"=>1, "escap"=>1, "hoss"=>1, "month"=>1, "prison"=>1, "rais"=>1, "reward"=>1}

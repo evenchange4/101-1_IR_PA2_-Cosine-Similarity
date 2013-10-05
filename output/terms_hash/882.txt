@@ -1,0 +1,1 @@
+{"675"=>1, "aid"=>1, "area"=>2, "damag"=>1, "dave"=>1, "deforest"=>1, "devast"=>1, "earthquak"=>1, "food"=>1, "heavi"=>1, "kill"=>1, "new"=>1, "offici"=>1, "peopl"=>1, "remot"=>1, "report"=>1, "rural"=>1, "salvador"=>1, "saturdai"=>1, "struggl"=>1, "survei"=>1, "voa"=>1, "water"=>1, "worker"=>1}

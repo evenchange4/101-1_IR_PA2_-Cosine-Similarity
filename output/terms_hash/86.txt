@@ -1,0 +1,1 @@
+{"alassan"=>1, "appeal"=>1, "bar"=>1, "calm"=>1, "coast"=>1, "compet"=>1, "decis"=>1, "elect"=>1, "figur"=>1, "ivori"=>1, "month"=>1, "mr"=>1, "opposit"=>1, "ouattara"=>2, "plead"=>1, "presidenti"=>1, "resist"=>1, "said"=>1, "shock"=>1, "support"=>1, "violenc"=>1}

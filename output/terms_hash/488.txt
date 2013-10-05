@@ -1,0 +1,1 @@
+{"13th"=>1, "attack"=>1, "bomb"=>1, "bomber"=>1, "cole"=>1, "countri"=>1, "dai"=>1, "fbi"=>1, "men"=>1, "octob"=>1, "offici"=>1, "pick"=>1, "polic"=>1, "possibl"=>1, "question"=>2, "role"=>1, "suicid"=>1, "suspect"=>1, "tonight"=>1, "touch"=>1, "uss"=>1, "weekend"=>1, "yemen"=>1, "yemeni"=>1}

@@ -1,0 +1,1 @@
+{"4-time"=>1, "5-7"=>1, "6-2"=>1, "6-3"=>1, "6-4"=>2, "anna"=>1, "aussi"=>1, "capriati"=>2, "champ"=>2, "davenport"=>1, "defend"=>1, "face"=>1, "jennif"=>1, "kournikova"=>1, "lindsai"=>1, "monica"=>1, "number"=>1, "open"=>1, "quick"=>1, "reach"=>1, "second"=>1, "seed"=>1, "sele"=>1, "semi"=>1, "set"=>1, "straight"=>2, "surpris"=>1, "women"=>1, "work"=>1, "year"=>1}

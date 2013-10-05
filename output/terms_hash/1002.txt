@@ -1,0 +1,1 @@
+{"best"=>1, "career"=>1, "complet"=>1, "corina"=>1, "davenport"=>1, "doubl"=>1, "grand"=>1, "lindsai"=>1, "morariu"=>1, "set"=>1, "sister"=>1, "slam"=>1, "william"=>1}

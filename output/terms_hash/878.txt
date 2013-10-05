@@ -1,0 +1,1 @@
+{"american"=>1, "author"=>1, "caution"=>1, "central"=>1, "citizen"=>1, "countri"=>1, "depart"=>3, "earthquake-stricken"=>1, "essenti"=>1, "famili"=>1, "job"=>1, "late"=>1, "offici"=>2, "said"=>1, "salvador"=>1, "state"=>1, "statement"=>1, "travel"=>1, "tuesdai"=>1}

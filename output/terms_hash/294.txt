@@ -1,0 +1,1 @@
+{"17"=>1, "39"=>1, "air"=>1, "arriv"=>1, "base"=>1, "bodi"=>3, "cole"=>1, "delawar"=>1, "dover"=>1, "explos"=>1, "final"=>2, "flown"=>1, "forc"=>1, "home"=>1, "kill"=>2, "peopl"=>1, "recov"=>1, "sailor"=>2, "sundai"=>1, "todai"=>1, "wound"=>1, "yesterdai"=>1}

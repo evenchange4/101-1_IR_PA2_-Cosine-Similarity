@@ -1,0 +1,1 @@
+{"17"=>1, "ago"=>1, "air"=>1, "appar"=>1, "arriv"=>1, "attack"=>1, "base"=>1, "bodi"=>1, "brief"=>1, "carri"=>1, "ceremoni"=>1, "cole"=>1, "dai"=>1, "delawar"=>1, "dover"=>1, "final"=>1, "forc"=>1, "held"=>1, "home"=>1, "kill"=>1, "later"=>1, "morn"=>1, "plane"=>1, "port"=>1, "recov"=>1, "remain"=>1, "return"=>1, "sailor"=>2, "terrorist"=>1, "todai"=>1, "uss"=>1, "yemen"=>1}

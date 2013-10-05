@@ -1,0 +1,1 @@
+{"barent"=>1, "clear"=>1, "coller"=>1, "david"=>1, "diver"=>1, "extend"=>1, "hour"=>1, "kursk"=>1, "new"=>2, "norwegian"=>1, "nuclear"=>1, "russian"=>1, "sea"=>1, "search"=>1, "set"=>1, "spell"=>1, "storm"=>1, "submarin"=>1, "summari"=>1, "sunken"=>1, "voa"=>1, "weather"=>1, "wednesdai"=>1, "work"=>1}

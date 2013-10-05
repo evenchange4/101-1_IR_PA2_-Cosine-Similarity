@@ -1,0 +1,1 @@
+{"13000"=>1, "2500"=>1, "bodi"=>1, "dave"=>1, "earthquak"=>1, "far"=>1, "head"=>1, "help"=>1, "india"=>1, "indian"=>1, "intern"=>1, "kill"=>1, "offici"=>1, "peopl"=>2, "recov"=>1, "rescu"=>1, "sai"=>1, "search"=>1, "team"=>1, "thank"=>1, "victim"=>1}

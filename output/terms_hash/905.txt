@@ -1,0 +1,1 @@
+{"54000"=>1, "680"=>1, "author"=>1, "case"=>1, "devast"=>1, "diarrhea"=>1, "earthquak"=>1, "epidem"=>1, "health"=>1, "homeless"=>1, "increas"=>1, "infect"=>1, "kill"=>1, "left"=>1, "offici"=>1, "peopl"=>1, "possibl"=>1, "public"=>1, "quak"=>1, "report"=>2, "respiratori"=>1, "salvadoran"=>1, "saturdai"=>1, "survivor"=>1, "wake"=>1, "warn"=>1}

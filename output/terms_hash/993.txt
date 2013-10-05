@@ -1,0 +1,1 @@
+{"capit"=>1, "captur"=>1, "charg"=>1, "christma"=>1, "court"=>1, "death"=>1, "doe"=>1, "escap"=>1, "execut"=>1, "expect"=>1, "face"=>1, "fire"=>1, "georg"=>1, "kill"=>1, "leader"=>1, "murder"=>1, "newspap"=>1, "offic"=>2, "polic"=>1, "prison"=>1, "riva"=>1, "said"=>1, "self-proclaim"=>1, "shot"=>1, "texa"=>1, "todai"=>1, "told"=>1}

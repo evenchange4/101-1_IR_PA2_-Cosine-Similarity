@@ -1,0 +1,1 @@
+{"180"=>1, "awai"=>1, "bhuj"=>1, "delhi"=>1, "epicent"=>1, "far"=>1, "felt"=>1, "geolog"=>1, "gujarat"=>1, "hyderabad"=>1, "mile"=>1, "near"=>1, "new"=>1, "pakistan"=>1, "quak"=>1, "resort"=>1, "southeast"=>1, "state"=>1, "survei"=>1, "town"=>1, "tremor"=>1}
