@@ -3,6 +3,10 @@ The Programming Assignment 2 report from NTU101-1 IR course
 
 **by NTU [Michael Hsu](http://michaelhsu.tw/ "blog")**
 
+## 準備工作
+
+因為 IMTR 的 data 有簽保密條約，請自行取得後放在 `/IRTM_news_files` 目錄下。
+
 ## Getting Start: 
 
 使用 CLI 步驟執行程式，順序以及 output 結果如下
