@@ -11,7 +11,6 @@ The Programming Assignment 2 report from NTU101-1 IR course
 
 使用 CLI 步驟執行程式，順序以及 output 結果如下
 
-
 ### 0. 利用 [PA1](https://github.com/evenchange4/101-1_IR_PA1_extractor) 的 term extractor 找出`每一份` document 的 terms，存在 /output/terms_hash/ 中。
 
 ```
