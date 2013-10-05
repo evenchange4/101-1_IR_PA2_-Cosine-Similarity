@@ -8,14 +8,13 @@ The Programming Assignment 2 report from NTU101-1 IR course
 使用 CLI 步驟執行程式，順序以及 output 結果如下
 
 
-### 0. 利用 [PA1](https://github.com/evenchange4/101-1_IR_PA1_extractor) 的 term extractor 找出每一份 document 的 terms，存在 /output/terms_hash/ 中。
+### 0. 利用 [PA1](https://github.com/evenchange4/101-1_IR_PA1_extractor) 的 term extractor 找出`每一份` document 的 terms，存在 /output/terms_hash/ 中。
 
 ```
 $ ruby 0_loop-to-extract.rb
 
 output 
 => /output/terms_hash/1.txt
-
 ```
 
 ### 1. 把所有出現的 term 做出一個 dictionary，我在使用上先存進 hash table，然後 output file 為一個 dictionary_hash.txt。
@@ -27,7 +26,7 @@ output
 => /output/dictionary_hash.txt
 ```
 
-### 3. 讀取每一份 document 的 terms，對應到 dictionary_hash.txt，算出 tf-idf-unit-vector，並且存放到 /output/tf-idf_hash 中，為每一份document 的 tf-idf。
+### 3. 讀取每一份 document 的 terms，對應到 dictionary_hash.txt，算出 tf-idf-unit-vector，並且存放到 /output/tf-idf_hash 中，為`每一份` document 的 tf-idf。
  
 ```
 $ ruby 2_tf-idf.rb
@@ -53,6 +52,6 @@ $ ruby 4_format.rb
 
 output
 => dictionary.txt 以及 vector1.txt
-
+```
 
 ## ....詳細說明請看 `report.pdf`
